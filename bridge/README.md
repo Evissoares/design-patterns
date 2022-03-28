@@ -12,7 +12,7 @@ Não seria interessante criar uma instância de cada tipo de documento para usar
 
 Figura 01 – Diagrama de classes 
 
- ![alt text](assets/bridge.png)
+ ![alt text](../assets/bridge.png)
 
 Interface (DocumentoAbstrato) – No diagrama de classes é possível ver que existe uma classe concreta chamada DocumentoAbstrato e esta contém uma instância protegida de Documento, que é uma interface, porém, neste contexto a interface é a própria classe DocumentoAbstrato que interagirá com o cliente. 
 
