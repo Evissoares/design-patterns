@@ -9,7 +9,7 @@ A utilização deste design pattern permite que dado um modelo preestabelecido e
 Um exemplo de uso é a criação de pizzas, onde existe um passo a passo padrão para a criação de todas as pizzas, alterando apenas a composição, tamanho e borda de cada uma. 
 
 Figura 01 – Diagrama de classe 
-![alt text](assets/template-method.png)
+![alt text](../assets/template-method.png)
 
  
 
